@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  font-size: larger !important;
+}
+
+main {
+  flex: 1 0 auto;
+}
+.brand-logo {
+  padding-left: 12px !important;
+}
+.card-panel {
+  margin-top: 10vh !important;
+}
+form label,
+fieldset label {
+  font-size: larger;
+  font-weight: bold;
+}
+button {
+  margin-top: 0.3em !important;
+}
