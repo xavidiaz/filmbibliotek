@@ -25,6 +25,18 @@ Php dokument
 
 Sida med detallier av enda film.
 
+### ← update.php
+
+Php dokument
+
+Sida för att uppdatera filmer.
+
+### ← update.script.php
+
+Php dokument
+
+Script till update.php
+
 ### ← config/connect.php
 
 Php dokument
@@ -77,3 +89,5 @@ Här ska befina sig footer för varje sites sidor.
 Css dokument
 
 Här ska befiner sig formatering for html dokument, för att att få en trevligare utseende.
+
+test 2
